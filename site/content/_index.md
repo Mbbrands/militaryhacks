@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "The Ultimate Resoruce for Military Pay Charts, Rates, and Discounts"
+subtitle: Get Paid What You Deserve For Your Service
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
