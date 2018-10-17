@@ -1,7 +1,7 @@
 ---
-title: "The Ultimate Resoruce for Military Pay Charts, Rates, and Discounts"
-subtitle: Get Paid What You Deserve For Your Service
-image: /img/home-jumbotron.jpg
+title: "Get Paid What You Deserve For Your Military Service"
+subtitle: 
+image: 
 blurb:
     heading: Why Kaldi?
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
