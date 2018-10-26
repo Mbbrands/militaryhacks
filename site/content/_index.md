@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Military Pay Rates, Benefits and More"
+title: "Discover How to Get an Army Promotion Without Doing Hundreds of Sit-Ups or Going Back to College"
 subtitle: 
 
 ---
