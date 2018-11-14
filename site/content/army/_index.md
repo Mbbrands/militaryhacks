@@ -1,6 +1,7 @@
 ---
-title: Our Coffee
+title: Army
 type: products
+slug: army
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
