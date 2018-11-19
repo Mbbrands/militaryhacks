@@ -1,6 +1,6 @@
 ---
 title: Marines vs Army: Which is Better? 
-date: 2018-11-19T15:04:10.000Z
+date: 2018-01-01T15:04:10.000Z
 description: >-
   Discover the real difference between the U.S. Marine Corps and the U.S. Army. Compare requirements, salary, uniforms, mission and more.
 image:
