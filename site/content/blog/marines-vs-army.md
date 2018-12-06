@@ -5,6 +5,7 @@ description: >-
   Discover the real difference between the U.S. Marine Corps and the U.S. Army.
   Compare requirements, salary, uniforms, mission and more.
 slug: marines-vs-army
+
 ---
 This is the ultimate Marines vs Army guide available online.
 
