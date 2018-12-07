@@ -5,13 +5,15 @@ date: 2018-12-04T15:04:10.000Z
 description: >-
   "Among all of the military bases in Arizona, the Air Force has the largest presence. To date there are over 17,900 active duty members serving in Arizona."
 slug: military-bases-arizona
-image:
+image: https://www.militaryhacks.com/wp-content/uploads/arizona_military_bases.jpg
 
 ---
 
-<img src="https://www.militaryhacks.com/wp-content/uploads/arizona_military_bases-300x300.jpg" alt="arizona military bases" width="220" height="220" class="alignright size-medium wp-image-4537" />Among all of the military bases in Arizona, the Air Force has the largest presence. To date there are over 17,900 active duty members serving in Arizona.
+Among all of the military bases in Arizona, the Air Force has the largest presence. To date there are over 17,900 active duty members serving in Arizona.
 
 Most of these members are spread among Davis-Monthan AFB, Luke AFB, Fort Huachuca and Marine Corps Air Station Yuma.
+
+<img src="https://www.militaryhacks.com/wp-content/uploads/arizona_military_bases-300x300.jpg" alt="arizona military bases"  />
 
 <h2>Air Force</h2>
 
