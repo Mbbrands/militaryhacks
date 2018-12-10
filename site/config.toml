@@ -1,8 +1,12 @@
-baseurl = "/"
+baseurl = "https://www.militaryhacks.com/"
 languageCode = "en-us"
 title = "Military Pay Charts, Benefits and More"
 [permalinks]
   post = "/:slug/"
   blog = "/:slug/"
   page = "/:slug/"
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
