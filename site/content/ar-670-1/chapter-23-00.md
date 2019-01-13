@@ -3,7 +3,7 @@ title: "AR 670-1: Chapter 23: Wear of the Army Uniform by Reserve, Retired, Sepa
 description: ""
 date: 2019-01-01T00:00:10.000Z
 draft: true
-slug: 
+slug: reserve-retired-civilians-uniform
 
 ---
 
