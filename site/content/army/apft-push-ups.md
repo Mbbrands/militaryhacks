@@ -2,8 +2,7 @@
 
 title: 'APFT Push-Ups Chart: Minimum Requirements by Age Group'
 date: 2018-12-04T15:04:10.000Z
-description: >-
-  'The minimum APFT Push-Ups score required to graduate Basic Combat Training is 50. Scores are earned based on performance, age and gender.'
+description: "The minimum APFT Push-Ups score required to graduate Basic Combat Training is 50. Scores are earned based on performance, age and gender."
 slug: apft-push-ups
 image: 
 
