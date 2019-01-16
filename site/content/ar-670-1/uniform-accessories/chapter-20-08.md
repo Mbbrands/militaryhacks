@@ -1,8 +1,7 @@
 ---
-title: "AR 670-1: Chapter 20–8: Army Cap Rain Cover Requirements"
+title: "AR 670-1: Chapter 20–8: Army Uniform Cap Rain Cover Requirements"
 description: ""
 date: 2019-01-01T00:00:10.000Z
-draft: true
 slug: army-cap-cover
 
 ---
