@@ -2,7 +2,6 @@
 title: "AR 670-1: Chapter 20-16: Army Uniform Neck Gaiter Requirements"
 description: ""
 date: 2019-01-01T00:00:10.000Z
-draft: true
 slug: army-neck-gaiter
 
 ---
