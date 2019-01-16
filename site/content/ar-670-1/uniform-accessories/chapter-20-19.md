@@ -2,7 +2,6 @@
 title: "AR 670-1: Chapter 20-19: Army Uniform Blue Overcoat Requirements"
 description: ""
 date: 2019-01-01T00:00:10.000Z
-draft: true
 slug: army-overcoat
  
 ---
