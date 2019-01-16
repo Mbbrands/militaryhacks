@@ -1,8 +1,7 @@
 ---
-title: "AR 670-1: Chapter 20–7: Army Coat Requirements"
+title: "AR 670-1: Chapter 20–7: Army Uniform Coat Requirements"
 description: ""
 date: 2019-01-01T00:00:10.000Z
-draft: true
 slug: army-coat
 
 ---
