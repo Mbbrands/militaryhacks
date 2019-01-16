@@ -1,8 +1,7 @@
 ---
-title: "AR 670-1: Chapter 20-12: Army Uniform Handbag Requirements"
+title: "AR 670-1: Chapter 20-12: Army Uniform Handbag and Purse Requirements"
 description: ""
 date: 2019-01-01T00:00:10.000Z
-draft: true
 slug: army-handbags
 
 ---
