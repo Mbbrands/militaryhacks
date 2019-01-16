@@ -2,7 +2,7 @@
 title: "AR 670-1: 21-5: Army Uniform Insignia Requirements for General Officers"
 description: ""
 date: 2019-01-01T00:00:10.000Z
-slug:
+slug: army-general-officer-insignia
 
 ---
 
