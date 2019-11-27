@@ -1,4 +1,4 @@
-baseurl = "https://www.militaryhacks.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Military Pay Charts, Benefits and More"
 [permalinks]
